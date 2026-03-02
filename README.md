@@ -3,7 +3,8 @@ Aspiring penetration tester exploring the edges of code, networks, and security.
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ther34per101@gmail.com) [![website](https://img.shields.io/badge/Website-6A0DAD?logo=torbrowser&logoColor=white)](https://the-r34per.github.io/The-R34per-Website/index.html)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ther34per101@gmail.com) [![website](https://img.shields.io/badge/Website-181717?logo=githubpages&logoColor=white)](https://the-r34per.github.io/The-R34per-Website/index.html)
+
 
 
 # 💻 Tech Stack:
